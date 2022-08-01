@@ -27,4 +27,4 @@ npm start
 ```
 5. Open http://localhost:3000 to view the app in your browser.
 
-## Thank you for checking it out! :metal:
+## Thank you for checking it out! :metal:&#127999;

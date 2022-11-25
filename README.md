@@ -1,5 +1,5 @@
 # Twitching, an HLS Livestreaming App! 🎧 🔌
-HLS Livestreaming Application (Twitch.tv Alternative) built using 🍃Node.js, 🎥Video.js, 🥾Bootstrap and 👨‍🔧Nginx.
+HLS Livestreaming Application (Twitch.tv Alternative) built using 🍃 Node.js, 🎥 Video.js, 🥾 Bootstrap and 👨‍🔧 Nginx.
 
 ## Project Demo
 
